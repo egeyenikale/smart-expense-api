@@ -1,0 +1,103 @@
+{
+  "slug": "smart-expense-api",
+  "title": "Smart Expense API",
+  "category": "dotnet-api",
+  "difficulty": "medium",
+  "period": "2025-Q2",
+  "estimatedCommits": 14,
+  "description": "Personal income and expense tracking REST API.",
+  "features": [
+    "User registration",
+    "JWT authentication",
+    "Income and expense records",
+    "Category management",
+    "Monthly reporting",
+    "Excel export"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for income and expense records",
+      "commitMessage": "feat: add validation rules for income and expense records"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for category management",
+      "commitMessage": "feat: add reporting view for category management"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for monthly reporting",
+      "commitMessage": "feat: add export or integration support for monthly reporting"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for excel export",
+      "commitMessage": "refactor: improve service boundaries for excel export"
+    },
+    {
+      "number": 13,
+      "type": "fix",
+      "title": "handle edge cases for user registration",
+      "commitMessage": "fix: handle edge cases for user registration"
+    },
+    {
+      "number": 14,
+      "type": "perf",
+      "title": "improve query or request performance for jwt authentication",
+      "commitMessage": "perf: improve query or request performance for jwt authentication"
+    }
+  ]
+}
