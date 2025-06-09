@@ -40,3 +40,7 @@ feat: add validation rules for income and expense records
 
 feat: add reporting view for category management
 
+## 2025-06-09 - Stage 11
+
+feat: add export or integration support for monthly reporting
+
