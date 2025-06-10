@@ -53,3 +53,8 @@ export const stage11 = {
   "date": "2025-06-09",
   "message": "feat: add export or integration support for monthly reporting"
 };
+
+export const stage12 = {
+  "date": "2025-06-10",
+  "message": "refactor: improve service boundaries for excel export"
+};

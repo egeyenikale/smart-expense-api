@@ -44,3 +44,7 @@ feat: add reporting view for category management
 
 feat: add export or integration support for monthly reporting
 
+## 2025-06-10 - Stage 12
+
+refactor: improve service boundaries for excel export
+
