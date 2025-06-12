@@ -48,3 +48,7 @@ feat: add export or integration support for monthly reporting
 
 refactor: improve service boundaries for excel export
 
+## 2025-06-12 - Stage 13
+
+fix: handle edge cases for user registration
+
