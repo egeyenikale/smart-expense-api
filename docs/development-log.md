@@ -52,3 +52,7 @@ refactor: improve service boundaries for excel export
 
 fix: handle edge cases for user registration
 
+## 2025-06-16 - Stage 14
+
+perf: improve query or request performance for jwt authentication
+
